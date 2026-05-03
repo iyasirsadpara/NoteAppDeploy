@@ -42,7 +42,7 @@ const App = () => {
       <header className="bg-gradient-to-r from-blue-950 to-indigo-600 shadow-lg">
         <div className="max-w-4xl mx-auto px-4 py-8">
           <h1 className="text-4xl font-bold text-white mb-2">My Notes</h1>
-          <p className="text-blue-100">Use this add to make good notes</p>
+          <p className="text-blue-100">Use this webapp to make good notes</p>
         </div>
       </header>
 
