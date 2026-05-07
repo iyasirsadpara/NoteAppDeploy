@@ -121,7 +121,7 @@ const App = () => {
                       onClick={() => deleteNote(note.id)}
                       className="text-red-500 hover:text-red-700"
                     >
-                      🗑️
+                      X
                     </button>
                   </div>
 
